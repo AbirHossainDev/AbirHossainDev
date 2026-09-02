@@ -174,11 +174,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-
-# 💫 About Me:
-👨‍💻 About Me<br><br>- 🌱 Currently learning JavaScript & TypeScript<br>- 💻 Exploring Modern Web Development<br>- 🚀 Building projects and improving every single day<br>- 🧠 Turning ideas into clean & meaningful code<br>- 🎯 Goal: Become a skilled Full-Stack Developer<br>- ⚡ Code. Learn. Build. Repeat.<br><br>🛠️ Skills<br><br>HTML • CSS • JavaScript • TypeScript • Git • GitHub<br><br>📊 My Journey<br><br>Learning → Building → Breaking → Fixing → Improving → Growing 🚀<br><br>«💡 “Every line of code is one step closer to becoming a better developer.”»
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19G5ZLyJQb/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MD ABIR HOSSAIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.abirhossain@gmail.com) 
 
