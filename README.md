@@ -1,4 +1,4 @@
-# Hi 👋, I'm <Dev.Abir>  
+# Hi 👋, I'm Dev.Abir  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
@@ -32,10 +32,9 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/abir00x)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:dev.abirhossain@gmail.com)
 
 ---
 
@@ -43,16 +42,16 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats][(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)](https://github-readme-stats.vercel.app/api?username=AbirHossainDev) |
 
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=AbirHossainDev&style=flat-square)
 Project Repo Readme Template
 # Project Name  
-A short one-line subtitle that describes what this project does.
+ 🍃 Nature-s-Platter
 
----
+A modern and responsive website focused on fresh, healthy, and natural products.
 
 ## Table of Contents
 
@@ -71,7 +70,7 @@ A short one-line subtitle that describes what this project does.
 ---
 
 ## About the Project 
-A brief description of the project, its purpose, and what problem it solves.
+Nature-s-Platter is a modern and responsive web project focused on presenting fresh, healthy, and natural products in a clean and user-friendly interface.
 
 ---
 
@@ -82,9 +81,9 @@ You can also include a diagram or screenshot.
 ---
 
 ## Key Features  
-- Feature 1 — short explanation  
-- Feature 2 — short explanation  
-- Feature 3 — short explanation  
+- Responsive design  
+- Clean and modern user interface
+- Easy navigation
 - Authentication / Dashboard / API Integration (optional examples)
 
 ---
@@ -96,19 +95,6 @@ You can also include a diagram or screenshot.
 
 ---
 
-## Dependencies  
-List required dependencies or major libraries:
-
-```json
-{
-  "react": "^18.x",
-  "express": "^4.x",
-  "mongoose": "^7.x",
-  "tailwindcss": "^3.x"
-}
-```
-
----
 
 ## 🚀 Getting Started
 
@@ -141,7 +127,7 @@ If this is a team project, mention contributors.
 
 | Name            | Role                | Contributions                            |  
 |-----------------|---------------------|------------------------------------------|  
-| Dev.AbirHOssain        | Developer               |  Frontend Developer | Built responsive and modern web interfaces using HTML, CSS, JavaScript and TypeScript  |  
+| Dev.AbirHOssain        | Developer               |  Built responsive and modern web interfaces using HTML, CSS, JavaScript and TypeScript  |  
 
 
 ---
