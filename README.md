@@ -6,17 +6,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FFD21F&center=true&vCenter=true&width=700&height=60&lines=JavaScript+Developer;React+Developer;Node.js+Developer;Full-Stack+Developer;Always+Learning+%26+Building">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&duration=1800&pause=700&color=FFD21F&center=true&vCenter=true&repeat=true&width=850&height=65&lines=%3E+JavaScript+Developer+%F0%9F%9A%80;%3E+TypeScript+Developer+%E2%9A%A1;%3E+React+Developer+%E2%9A%9B;%3E+Node.js+Developer+%F0%9F%9F%A2;%3E+Full-Stack+Developer+%F0%9F%92%BB;%3E+Always+Learning+%26+Building+%F0%9F%94%A5">
 
 <br><br>
 
-<img src="https://github.com/AbirHossainDev.png" width="150">
+<img src="https://github.com/AbirHossainDev.png" width="150" style="border-radius:50%">
 
 <br>
 
-# 👋 Hi, I'm *Dev. Abir*
+# 👋 Hi, I'm <i>Dev. Abir</i>
 
-### 🔭 I build things with *JavaScript, React, and Node.js*
+### 🔭 I build things with <i>JavaScript, React, and Node.js</i>
 
 <br>
 
@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/badge/GitHub-071A35?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AbirHossainDev&label=PROFILE+VIEWS&color=FFD21F&style=for-the-badge">
+
 </div>
 
 ---
@@ -43,14 +47,11 @@
 
 <td width="55%" valign="top">
 
-I'm a passionate *full-stack developer* who enjoys building modern,
+I'm a passionate <b>Full-Stack Developer</b> who enjoys building modern,
 high-performance web applications.
 
-I love working with *JavaScript, **React, and **Node.js*, and I'm
-always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in *GraphQL* and
-*Docker* while working on exciting real-world projects.
+I love working with <b>JavaScript, React, TypeScript, and Node.js</b>,
+and I'm always exploring new tools and technologies.
 
 ### 🚀 What I Love
 
@@ -58,14 +59,14 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 - ⚛️ React Development
 - 🟢 Node.js
 - 🧠 Problem Solving
-- 🔧 Building Real-World Projects
+- 🔧 Real-World Projects
 - 📚 Continuous Learning
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,graphql,docker" width="300">
 
 <br><br>
 
@@ -102,35 +103,49 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
+<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="96%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="96%">
 
 </div>
 
-<br>
+---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
-# 🔥 GitHub Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
+<img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=github-dark-blue&hide_border=true&border_radius=15&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F" width="96%">
 
 </div>
 
-<br>
+---
 
-<!-- ===================== 3D CONTRIBUTION ===================== -->
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbirHossainDev&bg_color=071A35&color=FFFFFF&line=FFD21F&point=FFD21F&area=true&area_color=FFD21F&hide_border=true&radius=12&custom_title=DEV.%20ABIR%20%E2%80%94%20GITHUB%20ACTIVITY" width="96%">
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%">
+
+</div>
+
+---
 
 # 🧊 3D GitHub Contribution
 
@@ -139,24 +154,25 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 ### 🌈 Night Rainbow
 
 <img
-  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/main/profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="3D GitHub Contribution Night Rainbow"
+src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/main/profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="3D GitHub Contribution"
 />
 
 <br><br>
 
----
-
 ### 🐍 Contribution Snake
 
 <img
-  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
 />
 
 </div>
+
+---
+
 # 🚀 Featured Project
 
 <table>
@@ -174,7 +190,7 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ### 🍃 Nature-s-Platter
 
-A modern and responsive website focused on *fresh, healthy, and natural products*.
+A modern and responsive website focused on <b>fresh, healthy, and natural products.</b>
 
 ### 🛠️ Built With
 
@@ -190,6 +206,16 @@ A modern and responsive website focused on *fresh, healthy, and natural products
 
 </tr>
 </table>
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbirHossainDev&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="96%">
+
+</div>
 
 ---
 
@@ -223,11 +249,11 @@ A modern and responsive website focused on *fresh, healthy, and natural products
 
 ### “Code is like humor. When you have to explain it, it's bad.”
 
-*— Cory House*
+<i>— Cory House</i>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AbirHossainDev&label=PROFILE+VIEWS&color=FFD21F&style=for-the-badge">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=FFD21F&center=true&vCenter=true&width=750&height=50&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%94%A5">
 
 <br><br>
 
@@ -235,6 +261,6 @@ A modern and responsive website focused on *fresh, healthy, and natural products
 
 ### ⭐ Thanks for visiting! ⭐
 
-*Built with ❤️ by Dev. Abir*
+<i>Built with ❤️ by Dev. Abir</i>
 
 </div>
