@@ -8,9 +8,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FFD21F&center=true&vCenter=true&width=700&height=60&lines=JavaScript+Developer;React+Developer;Node.js+Developer;Full-Stack+Developer;Always+Learning+%26+Building">
 
-<br><br>
 
-<img src="./assets/a_wide_high_resolution_modern_github_portfolio_s.png" width="100%">
+
+<br>
+
+<img src="https://github.com/AbirHossainDev.png" width="150">
+
+<br>
 
 <br>
 
