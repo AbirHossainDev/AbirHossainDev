@@ -173,6 +173,16 @@ Docker while working on exciting real-world projects.
 
 <!-- ===================== 3D CONTRIBUTION ===================== -->
 
+---
+
+# 📋 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbirHossainDev&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF&border_color=24456D" width="100%">
+
+</div>
+
 # 🧊 3D GitHub Contribution
 
 <div align="center">
