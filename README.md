@@ -12,9 +12,9 @@
 
 <br>
 
-<img src="https://github.com/AbirHossainDev.png" width="150">
-
-<br>
+<div align="center">
+  <img src="./abirdev.png" width="100%" alt="Dev. Abir">
+</div>
 
 <br>
 
