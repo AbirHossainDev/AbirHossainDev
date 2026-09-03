@@ -131,13 +131,7 @@ Docker while working on exciting real-world projects.
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%">
-
-</div>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -323,8 +317,77 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD21F,50:071A35,100:000000&height=120&section=footer&animation=twinkling" width="100%">
 
-### ⭐ Thanks for visiting! ⭐
+<!-- 🌈 PREMIUM ANIMATED FOOTER -->
 
-Built with ❤️ by Dev. Abir
+<br>
+<br>
 
+<div align="center">
+
+<!-- ✨ Colorful Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=7&section=header" width="85%"/>
+
+<br><br>
+
+<!-- 👋 Thank You Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=FFD21F&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%91%8B+THANKS+FOR+VISITING+MY+PROFILE!;%F0%9F%92%BB+THANKS+FOR+STOPPING+BY!;%F0%9F%9A%80+KEEP+CODING%2C+KEEP+BUILDING!;%F0%9F%8C%9F+SEE+YOU+IN+THE+NEXT+PROJECT!" />
+
+<br>
+
+<!-- 👨‍💻 Name -->
+<h1 align="center">
+  💻 MD. ABIR HOSSAIN
+</h1>
+
+<!-- ⚡ Developer Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%94%A5+FULL-STACK+DEVELOPER;%E2%9A%A1+JAVASCRIPT+%7C+REACT+%7C+NODE.JS;%F0%9F%92%A1+TURNING+IDEAS+INTO+CODE;%F0%9F%9A%80+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
+
+<br>
+
+<!-- 🌱 Short Message -->
+<p align="center">
+  <b>🌱 Learn • Build • Improve • Repeat 🔥</b>
+</p>
+
+<p align="center">
+  <i>
+    Thanks for taking the time to explore my GitHub profile.
+    <br>
+    I love learning new technologies and building meaningful projects.
+  </i>
+</p>
+
+<br>
+
+<!-- 🔗 Social Links -->
+<a href="https://www.facebook.com/share/1BzGsWKJyA/">
+<img src="https://img.shields.io/badge/Follow%20Me-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF">
+</a>
+
+<a href="mailto:dev.abirhossain@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+</a>
+
+<a href="https://github.com/AbirHossainDev">
+<img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+<br>
+<br>
+
+<!-- 💖 Built With -->
+<p align="center">
+  <b>Built with ❤️, ☕ and lots of code by MD. Abir Hossain</b>
+</p>
+
+<p align="center">
+  <i>“Code. Create. Contribute. Repeat.”</i>
+</p>
+
+<br>
+
+<!-- 🌈 Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=150&section=footer&text=MD.%20ABIR%20HOSSAIN&fontSize=30&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
 </div>
