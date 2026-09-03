@@ -139,22 +139,7 @@ Feel free to reach out if you want to talk about *web development*, open-source,
 <!--                    GITHUB STATS                      -->
 <!-- ===================================================== -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbirHossainDev&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF&icon_color=FFD21F&border_color=24456D" width="48%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbirHossainDev&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF&icon_color=FFD21F&border_color=24456D" width="48%">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=dark&hide_border=true&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="70%">
-
-</div>
-
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
 
