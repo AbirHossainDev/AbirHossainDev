@@ -118,20 +118,13 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ---
 
-# 🏆 GitHub Trophies
-
-<h2>🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=darkhub&no-frame=true&margin-w=10"
-  width="100%"
-  alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
----
 
 # 🔥 GitHub Activity
 
