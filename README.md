@@ -207,7 +207,7 @@ Docker while working on exciting real-world projects.
 
 ## 🌿 Nature-s-Platter
 
-<img src="https://placehold.co/700x400/071A35/FFD21F?text=Nature-s-Platter" width="100%">
+<img src="./nature.png" alt="Nature-s-Platter" width="100%">
 
 </td>
 
