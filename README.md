@@ -136,7 +136,7 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 </div>
 
----
+
 
 ---
 
@@ -144,26 +144,19 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 <div align="center">
 
-
-
-
-
-<br><br>
 ### 🌈 Night Rainbow
 
-<img src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Night Rainbow">
+<img
+  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="3D GitHub Contribution Night Rainbow"
+/>
 
 <br><br>
-
-
-
-
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
+### 🐍 Contribution Snake
 
 <img
   src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/output/github-contribution-grid-snake-dark.svg"
