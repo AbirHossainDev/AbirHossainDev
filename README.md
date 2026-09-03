@@ -130,14 +130,14 @@ Docker while working on exciting real-world projects.
 <!-- ===================== GITHUB STATS ===================== -->
 
 <!-- ===================== GITHUB STATS ===================== -->
-# 📈 Contribution Activity
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbirHossainDev&bg_color=071A35&color=FFFFFF&line=FFD21F&point=00E5FF&area=true&hide_border=true" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%">
 
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
