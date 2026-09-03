@@ -32,8 +32,13 @@
 
 <br>
 
-# 👋 Hi, I'm MD Abir Hossain
+<h1 align="center">
+  👋 Hi, I'm MD Abir Hossain
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%AD+I+build+things+with+JavaScript%2C+React%2C+and+Node.js" />
+</p>
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 <br>
