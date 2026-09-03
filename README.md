@@ -170,13 +170,10 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/output/github-contribution-snake-dark.svg" width="95%">
 
 </div>
+--
 
 # 🚀 Featured Project
 
