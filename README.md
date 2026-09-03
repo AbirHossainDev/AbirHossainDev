@@ -104,21 +104,32 @@ Docker while working on exciting real-world projects.
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
+<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="96%">
+<img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=dark&hide_border=true&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA">
 
 </div>
 
-<br>
+---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6">
+
+</div>
+
+---
+
 
 # 🔥 GitHub Streak
 
