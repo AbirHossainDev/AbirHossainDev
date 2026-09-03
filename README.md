@@ -130,6 +130,13 @@ Docker while working on exciting real-world projects.
 <!-- ===================== GITHUB STATS ===================== -->
 
 <!-- ===================== GITHUB STATS ===================== -->
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbirHossainDev&bg_color=071A35&color=FFFFFF&line=FFD21F&point=00E5FF&area=true&hide_border=true" width="100%">
+
+</div>
 
 ## 📊 GitHub Stats
 
