@@ -136,7 +136,7 @@ Docker while working on exciting real-world projects.
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=dark&hide_border=true&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="70%">
+
 
 </div>
 
