@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://github.com/AbirHossainDev.png" width="150">
+<img src="./assets/a_wide_high_resolution_modern_github_portfolio_s.png" width="100%">
 
 <br>
 
