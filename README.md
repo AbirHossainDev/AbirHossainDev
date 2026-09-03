@@ -102,21 +102,23 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ---
 
-# 📊 GitHub Statistics
+<!-- ===================== GITHUB STATS ===================== -->
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=dark&hide_border=true&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHossainDev&layout=compact&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF" width="96%">
 
 </div>
 
----
+<br>
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
 # 🔥 GitHub Activity
 
@@ -126,13 +128,10 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 </div>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF"
-  width="100%"
-  alt="AbirHossainDev GitHub Activity"
-/>
+<br>
 
-</div>
+<!-- ===================== 3D CONTRIBUTION ===================== -->
+
 # 🧊 3D GitHub Contribution
 
 <div align="center">
