@@ -1,12 +1,28 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A35,100:FFD21F&height=220&section=header&text=MD.%20ABIR&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=19&descAlignY=58&descColor=FFD21F&animation=twinkling" width="100%"/>
+<!-- 🌈 PREMIUM ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=240&section=header&text=MD.%20ABIR%20HOSSAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlignY=58&descColor=FFFFFF&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FFD21F&center=true&vCenter=true&width=700&height=60&lines=JavaScript+Developer;React+Developer;Node.js+Developer;Full-Stack+Developer;Always+Learning+%26+Building">
+<!-- 💓 WELCOME -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1700&pause=700&color=FF4D8D&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%92%93+%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%A4%E0%A6%AE+%F0%9F%92%93;%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+PROFILE!;%F0%9F%92%BB+MD.+ABIR+HOSSAIN" />
+</p>
+
+<br>
+
+<!-- ⚡ DEVELOPER ROLES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2300&pause=800&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=%E2%9A%A1+JavaScript+Developer;%F0%9F%9A%80+React+Developer;%F0%9F%92%BB+Node.js+Developer;%F0%9F%94%A5+Full-Stack+Developer;%F0%9F%8C%9F+Always+Learning+%26+Building;%F0%9F%92%A1+Turning+Ideas+Into+Code" />
+</p>
+
+<br>
+
+<!-- 🌈 COLORFUL LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF8C00,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=7&section=header" width="85%"/>
+</p>
 
 
 
