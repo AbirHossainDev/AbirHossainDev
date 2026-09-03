@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="./abirdev.png" width="100%" alt="Dev. Abir">
+  <img src="./dev.abir.png" width="100%" alt="Dev. Abir">
 </div>
 
 <br>
