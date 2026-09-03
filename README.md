@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- 🌈 PREMIUM ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=240&section=header&text=MD.%20ABIR%20HOSSAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlignY=58&descColor=FFFFFF&animation=twinkling" width="100%"/>
 
@@ -7,7 +6,7 @@
 
 <!-- 💓 WELCOME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1700&pause=700&color=FF4D8D&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%92%93+%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%A4%E0%A6%AE+%F0%9F%92%93;%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+PROFILE!;%F0%9F%92%BB+MD.+ABIR+HOSSAIN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1700&pause=700&color=FF4D8D&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+PROFILE!;%F0%9F%92%BB+MD.+ABIR+HOSSAIN" />
 </p>
 
 <br>
@@ -23,14 +22,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF8C00,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=7&section=header" width="85%"/>
 </p>
-
-
-
-<br>
-
-<div align="center">
-  <img src="./dev.abir07.png" width="100%" alt="Dev. Abir">
-</div>
 
 <br>
 
