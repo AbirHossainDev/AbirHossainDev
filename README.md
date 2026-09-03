@@ -147,7 +147,7 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 ### 🌈 Night Rainbow
 
 <img
-  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/profile-3d-contrib/profile-night-rainbow.svg"
+  src="https://raw.githubusercontent.com/AbirHossainDev/AbirHossainDev/main/profile-3d-contrib/profile-night-rainbow.svg"
   width="100%"
   alt="3D GitHub Contribution Night Rainbow"
 />
@@ -165,8 +165,6 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 />
 
 </div>
-
----
 # 🚀 Featured Project
 
 <table>
