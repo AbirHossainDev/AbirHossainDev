@@ -234,6 +234,38 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 ---
 
+---
+
+# 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=graphql,docker,typescript,nextjs" />
+
+<br><br>
+
+💡 Learning new technologies  
+🔥 Building real-world projects  
+📚 Improving problem-solving skills  
+🚀 Becoming a better Full-Stack Developer
+
+</div>---
+
+# 🎯 2026 Developer Goals
+
+<div align="center">
+
+| 🎯 Goal | 🚀 Progress |
+|--------|-------------|
+| Master TypeScript | 🔥 Learning |
+| Learn Next.js | 🚀 In Progress |
+| Learn GraphQL | 📚 Learning |
+| Improve Backend Skills | 💪 Working |
+| Build More Real-World Projects | 🚀 Active |
+| Contribute to Open Source | 🌟 Coming Soon |
+
+</div>
+
 # 🤝 Let's Connect
 
 <div align="center">
