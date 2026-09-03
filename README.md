@@ -118,9 +118,13 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ---
 
-## 🔥 GitHub Activity
+# 🔥 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF" width="96%">
+
+</div>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=AbirHossainDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=071A35&title_color=FFD21F&icon_color=FFD21F&text_color=FFFFFF"
