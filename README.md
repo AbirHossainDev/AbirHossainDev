@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A35,100:FFD21F&height=220&section=header&text=DEV.%20ABIR&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=19&descAlignY=58&descColor=FFD21F&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071A35,100:FFD21F&height=220&section=header&text=MD.%20ABIR&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=19&descAlignY=58&descColor=FFD21F&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -13,12 +13,12 @@
 <br>
 
 <div align="center">
-  <img src="./dev.abir.png" width="100%" alt="Dev. Abir">
+  <img src="./dev.abir07.png" width="100%" alt="Dev. Abir">
 </div>
 
 <br>
 
-# 👋 Hi, I'm Dev. Abir
+# 👋 Hi, I'm MD Abir Hossain
 
 ### 🔭 I build things with JavaScript, React, and Node.js
 
