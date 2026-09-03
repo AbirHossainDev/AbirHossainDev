@@ -106,11 +106,15 @@ Docker while working on exciting real-world projects.
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <table>
+<tr>
+
 <td width="50%" align="center">
 
 ### 📈 GitHub Stats
@@ -118,6 +122,8 @@ Docker while working on exciting real-world projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbirHossainDev&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF&icon_color=FFD21F&border_color=24456D" width="100%">
 
 </td>
+
+<td width="50%" align="center">
 
 ### 💻 Most Used Languages
 
