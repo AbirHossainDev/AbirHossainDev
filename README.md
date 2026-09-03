@@ -118,15 +118,17 @@ Currently, I'm focused on expanding my knowledge in *GraphQL* and
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbirHossainDev&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/AbirHossainDev)
----
 ## 🔥 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbirHossainDev&theme=github-compact)](https://github.com/AbirHossainDev)
---
+<div align="center">
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AbirHossainDev&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="AbirHossainDev GitHub Activity"
+/>
+
+</div>
 # 🧊 3D GitHub Contribution
 
 <div align="center">
