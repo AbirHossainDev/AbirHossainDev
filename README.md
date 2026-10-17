@@ -1,4 +1,5 @@
 <div align="center">
+
 <!-- 🌈 PREMIUM ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=240&section=header&text=MD.%20ABIR%20HOSSAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlignY=58&descColor=FFFFFF&animation=twinkling" width="100%"/>
 
@@ -6,7 +7,7 @@
 
 <!-- 💓 WELCOME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1700&pause=700&color=FF4D8D&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+PROFILE!;%F0%9F%92%BB+MD.+ABIR+HOSSAIN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1700&pause=700&color=FF4D8D&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%91%8B+WELCOME+TO+MY+GITHUB+PROFILE!;%F0%9F%92%BB+WELCOME+TO+MY+DEV+WORLD" />
 </p>
 
 <br>
@@ -23,23 +24,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF8C00,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=7&section=header" width="85%"/>
 </p>
 
-<br>
-<br>
+<br><br>
 
-<div align="center">
-  <img src="./dev.abir07.png" width="100%" alt="Dev. Abir">
-</div>
+<!-- 🖼️ DEVELOPER BANNER -->
+<img src="./dev.abir07.png" width="100%" alt="Developer Banner">
 
-<br>
+<br><br>
 
 <h1 align="center">
-  👋 Hi, I'm MD Abir Hossain
+  👋 Hi, I'm a Full-Stack Developer
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%AD+I+build+things+with+JavaScript%2C+React%2C+and+Node.js" />
 </p>
-<h2> 🔭 I build things with JavaScript, React, and Node.js</h2>
+
+<h2 align="center">
+  🔭 I build things with JavaScript, React, and Node.js
+</h2>
 
 <br>
 
@@ -69,7 +71,7 @@
 I'm a passionate full-stack developer who enjoys building modern,
 high-performance web applications.
 
-I love working with JavaScript, **React, and **Node.js, and I'm
+I love working with JavaScript, **React**, and **Node.js**, and I'm
 always exploring new tools and technologies to improve my workflow.
 
 Currently, I'm focused on expanding my knowledge in GraphQL and
@@ -125,14 +127,7 @@ Docker while working on exciting real-world projects.
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -158,11 +153,9 @@ Docker while working on exciting real-world projects.
 </tr>
 </table>
 
-<br>
-
-
-
 </div>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -171,8 +164,6 @@ Docker while working on exciting real-world projects.
 <img src="https://streak-stats.demolab.com/?user=AbirHossainDev&theme=github-dark-blue&hide_border=true&border_radius=15&background=071A35&ring=FFD21F&fire=FFD21F&currStreakLabel=FFD21F" width="96%">
 
 </div>
-
-<!-- ===================== 3D CONTRIBUTION ===================== -->
 
 ---
 
@@ -183,6 +174,8 @@ Docker while working on exciting real-world projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbirHossainDev&theme=github_dark&bg_color=071A35&title_color=FFD21F&text_color=FFFFFF&border_color=24456D" width="100%">
 
 </div>
+
+---
 
 # 🧊 3D GitHub Contribution
 
@@ -198,8 +191,6 @@ Docker while working on exciting real-world projects.
 
 <br><br>
 
----
-
 ### 🐍 Contribution Snake
 
 <img
@@ -209,6 +200,9 @@ Docker while working on exciting real-world projects.
 />
 
 </div>
+
+---
+
 # 🚀 Featured Project
 
 <table>
@@ -245,8 +239,6 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 ---
 
----
-
 # 🚀 Currently Learning
 
 <div align="center">
@@ -260,7 +252,9 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 📚 Improving problem-solving skills  
 🚀 Becoming a better Full-Stack Developer
 
-</div>---
+</div>
+
+---
 
 # 🎯 2026 Developer Goals
 
@@ -277,6 +271,8 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 </div>
 
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
@@ -290,11 +286,11 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 </a>
 
 <a href="mailto:dev.abirhossain@gmail.com">
-<img src="https://img.shields.io/badge/dev.abirhossain%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
 </a>
 
 <a href="https://github.com/AbirHossainDev">
-<img src="https://img.shields.io/badge/AbirHossainDev-181717?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 </div>
@@ -317,12 +313,9 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD21F,50:071A35,100:000000&height=120&section=footer&animation=twinkling" width="100%">
 
+<br><br>
+
 <!-- 🌈 PREMIUM ANIMATED FOOTER -->
-
-<br>
-<br>
-
-<div align="center">
 
 <!-- ✨ Colorful Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=7&section=header" width="85%"/>
@@ -334,12 +327,11 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 
 <br>
 
-<!-- 👨‍💻 Name -->
+<!-- ⚡ Developer Role -->
 <h1 align="center">
-  💻 MD. ABIR HOSSAIN
+  💻 FULL-STACK DEVELOPER
 </h1>
 
-<!-- ⚡ Developer Role -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%94%A5+FULL-STACK+DEVELOPER;%E2%9A%A1+JAVASCRIPT+%7C+REACT+%7C+NODE.JS;%F0%9F%92%A1+TURNING+IDEAS+INTO+CODE;%F0%9F%9A%80+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME" />
 
 <br>
@@ -372,8 +364,7 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 <img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
-<br>
-<br>
+<br><br>
 
 <!-- 💖 Built With -->
 <p align="center">
@@ -387,7 +378,6 @@ A modern and responsive website focused on fresh, healthy, and natural products.
 <br>
 
 <!-- 🌈 Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=150&section=footer&text=MD.%20ABIR%20HOSSAIN&fontSize=30&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,20:FF4D4D,40:FFD700,60:00E5FF,80:7B2CFF,100:FF0080&height=150&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
 
-</div>
 </div>
